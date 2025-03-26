@@ -18,7 +18,7 @@ Our first project, is a narrative-driven RPG that integrates web3 technologies s
 
 ## Contributing
 
-We love collaborating with the developer community! If you're interested in contributing to our projects, feel free to open an issue or submit a pull request. Please review our [contributing guidelines](#) for more information.
+We love collaborating with the developer community! If you're interested in contributing to our projects, feel free to open an issue or submit a pull request. Please review our [contributing guidelines](https://github.com/Short-Fuse-Games/.github/blob/main/GUIDELINES.md) for more information.
 
 ## License
 
