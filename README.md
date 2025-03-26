@@ -22,7 +22,7 @@ We love collaborating with the developer community! If you're interested in cont
 
 ## License
 
-All our projects are licensed under the [GPLV3](LICENSE).
+All our projects are licensed under the [GPLV3]([LICENSE](https://www.gnu.org/licenses/gpl-3.0.en.html)).
 
 ## Contact Us
 
