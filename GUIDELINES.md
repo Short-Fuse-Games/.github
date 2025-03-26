@@ -60,7 +60,7 @@ We appreciate your interest in contributing to Short Fuse Games! Whether you're 
 
 **Code of Conduct**
 
-We follow a Code of Conduct to maintain a respectful and welcoming community. We ask all contributors to treat each other with kindness and professionalism. You can find the full Code of Conduct in the repository (link to the CODE_OF_CONDUCT.md file).
+We follow a Code of Conduct to maintain a respectful and welcoming community. We ask all contributors to treat each other with kindness and professionalism. You can find the full Code of Conduct in the repository ([CODE_OF_CONDUCT.md file](https://github.com/Short-Fuse-Games/.github/blob/main/CONDUCT.MD)).
 
 **Reporting Bugs**
 
